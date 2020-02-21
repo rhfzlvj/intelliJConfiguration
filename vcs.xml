@@ -6,11 +6,55 @@
           <option name="url" value="https://oss.navercorp.com/dbip2/main.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip2/acg-consumer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SpringOnePlatform2016/grussell-spring-kafka.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-ui-component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/ui-component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-open-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-backend-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ovity/octotree.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/dbip/dbip-parser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\USER\DPIP" />
+    <option name="cloneParentDir" value="C:\Users\USER\git\dbip" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>

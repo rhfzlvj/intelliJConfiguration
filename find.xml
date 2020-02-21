@@ -3,16 +3,30 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.css</mask>
+    <mask>*.ts</mask>
+    <mask>*acg*</mask>
+    <mask>*quartz*</mask>
+    <mask>*.xml</mask>
+    <mask>*BATCH*.java</mask>
+    <mask>**/batch/*.java</mask>
+    <mask>*.java,*.properties,*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*repository*</mask>
+    <mask>*xml*</mask>
+    <mask>*test.java</mask>
+    <mask>*.java</mask>
+    <mask>*param.java</mask>
+    <mask>*dto.java</mask>
+    <mask>*enum*</mask>
+    <mask>*controller.java</mask>
+    <mask>*repository.java</mask>
+    <mask>*service.java</mask>
+    <mask>Object*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>

@@ -62,6 +62,14 @@
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
+    <driver id="java.sql.Driver" name="cubrid" driver-class="cubrid.jdbc.driver.CUBRIDDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://C:/CUBRID/cubridmanager x86/driver/JDBC-8.4.1.31007-cubrid.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />

@@ -35,7 +35,6 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
-  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
@@ -51,9 +50,5 @@
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
-  </action>
-  <action id="momomo.com.Intellij.MoveTab.actions.MoveTabLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
-    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
 </keymap>
